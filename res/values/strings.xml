@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, MpActivity!</string>
+    <string name="app_name">MasterPiece</string>
+    <string-array name="blocksizes">
+    <item>Small Sized Blocks</item>
+    <item>Medium Sized Blocks</item>
+    <item>Large Sized Blocks</item>
+    </string-array>
+    <string name="sizeprompt">Select Block Size</string>
+    <string-array name="blockspeed">
+    <item>Easy Difficulty</item>
+    <item>Medium Difficulty</item>
+    <item>Hard Difficulty</item>
+    </string-array>
+    <string name="speedprompt">Select Game Difficulty</string>
+</resources>
